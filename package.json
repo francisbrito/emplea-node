@@ -1,0 +1,27 @@
+{
+  "name": "emplea",
+  "version": "0.0.0",
+  "description": "A minimalist wrapper for the Emplea API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/francisbrito/emplea-node.git"
+  },
+  "keywords": [
+    "emplea",
+    "dominican",
+    "republic",
+    "api",
+    "wrapper",
+    "job",
+    "board"
+  ],
+  "author": "Francis Brito <fr.br94@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francisbrito/emplea-node/issues"
+  }
+}
